@@ -1,8 +1,38 @@
-Входные данные:  F ABCDEFGJ. A ABC! A ABCD. C ABCDE. D ABCDEF. E ABCDEFG? B ABCD.
+Входные данные:  EF ABCDEFGJ . AB ABC! A ABCD. C ABCDE. D ABCDEF. E ABCDEFG? B ABCD.
 Результат:
-Предложения, содержащие хотя бы одно слово длиннее 2 символов: F ABCDEFGJ  A ABC  A ABCD  C ABCDE  D ABCDEF  E ABCDEFG  B ABCD 
-Предложения, содержащие хотя бы одно слово длиннее 3 символов: F ABCDEFGJ  A ABCD  C ABCDE  D ABCDEF  E ABCDEFG  B ABCD
-Предложения, содержащие хотя бы одно слово длиннее 4 символов: F ABCDEFGJ  C ABCDE  D ABCDEF  E ABCDEFG 
-Предложения, содержащие хотя бы одно слово длиннее 5 символов: F ABCDEFGJ  D ABCDEF  E ABCDEFG
-Предложения, содержащие хотя бы одно слово длиннее 6 символов: F ABCDEFGJ  E ABCDEFG
-Предложения, содержащие хотя бы одно слово длиннее 7 символов: F ABCDEFGJ
+Предложения, содержащие хотя бы одно слово длиннее 2 символов: 
+EF ABCDEFGJ .
+ AB ABC!
+ A ABCD.
+ C ABCDE.
+ D ABCDEF.
+ E ABCDEFG?
+ B ABCD.
+
+Предложения, содержащие хотя бы одно слово длиннее 3 символов: 
+EF ABCDEFGJ .
+ A ABCD.
+ C ABCDE.
+ D ABCDEF.
+ E ABCDEFG?
+ B ABCD.
+ 
+Предложения, содержащие хотя бы одно слово длиннее 4 символов: 
+EF ABCDEFGJ .
+ C ABCDE.
+ D ABCDEF.
+ E ABCDEFG?
+Предложения, содержащие хотя бы одно слово длиннее 5 символов: 
+EF ABCDEFGJ .
+ D ABCDEF.
+ E ABCDEFG?
+ 
+Предложения, содержащие хотя бы одно слово длиннее 6 символов: 
+EF ABCDEFGJ .
+ E ABCDEFG?
+
+Предложения, содержащие хотя бы одно слово длиннее 7 символов: 
+EF ABCDEFGJ .
+
+Предложения, содержащие хотя бы одно слово длиннее 8 символов: 
+В файле нет такого предложения.
